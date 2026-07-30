@@ -6,3 +6,4 @@ Testing git reset.
 I make a Website.
 Hello.
 
+Hello from Master Branch.
